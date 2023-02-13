@@ -1,4 +1,4 @@
-package com.omidrezabagherian.musicplayer
+package com.omidrezabagherian.musicplayer.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

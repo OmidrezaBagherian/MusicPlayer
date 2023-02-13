@@ -1,8 +1,9 @@
-package com.omidrezabagherian.musicplayer
+package com.omidrezabagherian.musicplayer.ui.playMusic
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
+import com.omidrezabagherian.musicplayer.R
 import com.omidrezabagherian.musicplayer.databinding.FragmentPlayMusicBinding
 
 class PlayMusicFragment : Fragment(R.layout.fragment_play_music) {
